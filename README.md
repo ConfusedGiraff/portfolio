@@ -6,4 +6,4 @@
 ## Small Writing Samples
 [Creating an EXE from Python Code](https://github.com/Melissa-Hilliard/portfolio/blob/main/Small%20Writing%20Samples/Creating%20an%20exe.md)
 
-[Syncing VS Code]()
+[Syncing VS Code](https://github.com/Melissa-Hilliard/portfolio/blob/main/Small%20Writing%20Samples/Syncing%20VS%20Code.md)
