@@ -3,3 +3,5 @@
 
 [NI Platform on Linux Platform](https://www.ni.com/docs/en-US/bundle/ni-platform-on-linux-desktop/page/ni-platform-on-linux-desktop-definition.html)
 
+## Small Writing Samples
+[Creating an EXE from Python Code]()
