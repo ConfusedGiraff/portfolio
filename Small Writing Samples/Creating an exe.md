@@ -1,4 +1,4 @@
-# Creating an exe
+# Creating an exe from Python Code
 
 1. Open Command Prompt and run the following commands
     `pip install auto-py-to-exe`
